@@ -112,11 +112,9 @@ These BMI categories help determine whether a person has a healthy weight in rel
 
 ### Recommendations
 
-- **Improvement Areas**: Based on the analysis, I suggest that more focus should be deployed to provide intensive follow-up care after operations. This is due to the fact that from the analysis, we have a high percentage of complications arising after suggery. 
-
--- Though, based on analysed data which shows that more patients improve after surgery, for there to be complications arising after surgery, it means there are issues with the follow-up protocol in place after surgery. 
-
--- Potential areas for improving patient care, should be in providing better treatment and follow-up protocols and future patient care strategies. This should be done by targeting patients with specific characteristics for certain types of surgery, or adjusting treatment plans based on pre-operative conditions.
+- **Improvement Areas**: Based on the analysis, I suggest that more focus should be deployed to provide intensive follow-up care after operations. This is due to the fact that from the analysis, we have a high percentage of complications arising after suggery.
+  - Though, based on analysed data which shows that more patients improve after surgery, for there to be complications arising after surgery, it means there are issues with the follow-up protocol in place after surgery.
+  - Potential areas for improving patient care, should be in providing better treatment and follow-up protocols and future patient care strategies. This should be done by targeting patients with specific characteristics for certain types of surgery, or adjusting treatment plans based on pre-operative conditions.
 
 - **Treatment Efficacy**: Generally, even with incidents of complications arising after surgery, it is noted from the analysis that patients do improve after suggery. It is therefore, recommended that the underlying cause of the complications be investigated and dealt with to move the process of suggery to near perfect. Better and improved surgcial methods can be reserched and adopted as well.
 
