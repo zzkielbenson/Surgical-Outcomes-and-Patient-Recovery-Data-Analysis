@@ -32,6 +32,8 @@ EDA involved explorying and analyzing BulkAmid data to answer key questions, suc
 
 
 ### Tools
+The tools used are:
+
 - Excel [Download Here](https://microsoft.com)
   - Power Query
   - Pivot Table Analyze
