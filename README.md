@@ -7,12 +7,7 @@ Paramount Hospital wants to create an annual report for 2018 - 2020, to analyze 
 
 
 ### Data Sources
-The primary dataset used for this analysis is the Combined data_No_pt_info.xlsx file, with specific instructions to work only with the BULKAMID Sheet in the Excel file. This sheet contains detailed information about each aspects of the surgical operations both pre and post. 
-
-- <a href="https://github.com/ezekielokpara/data-analysis-with-excel/addmilesales.xlsx">Download Data Set Here"</a>
-
-^ copy the url of your file from the github project space, after uploading it to github, and paste it as seen above.
-
+The primary dataset used for this analysis is the **<a href="https://github.com/zzkielbenson/Surgical-Outcomes-and-Patient-Recovery-Data-Analysis/blob/25c48b143cc69093a2b5857707be584b443912e9/Combined%20data_No_pt_info.xlsx">View Data Set Here</a>**, with specific instructions to work only with the BULKAMID Sheet in the Excel file. This sheet contains detailed information about each aspects of the surgical operations both pre and post. 
 
 ### Exploratory Data Analysis (Questions)
 
@@ -33,18 +28,18 @@ EDA involved explorying and analyzing BulkAmid data to answer key questions, suc
 - What is the Percentage of Complications at FU?
 - What is the percentage of None-Complications at FU 
 - Represent Parity Values and groups with a chart.
-- Dashboard interaction [View Dashboard](#)
+- Dashboard interaction <a href="https://github.com/zzkielbenson/Surgical-Outcomes-and-Patient-Recovery-Data-Analysis/blob/main/Paramount%20Hospital%20-%20Dashboard-1.jpg">View Dashboard Here</a>
 
 
 ### Tools
-- Excel 
--- Power Query
--- Pivot Table Analyze
--- Excel Data Analysis Functions 
--- Excel Formulars
--- Charts
--- Dashboard Creation Utilities for creating Reports & Visualization
--- Data Cleaning [Download Here](https://microsoft.com)
+- Excel [Download Here](https://microsoft.com)
+  - Power Query
+  - Pivot Table Analyze
+  - Excel Data Analysis Functions
+  - Excel Formulars
+  - Charts
+  - Dashboard Creation Utilities for creating Reports & Visualization
+  - Data Cleaning 
 
 ### Data Cleaning and Standardization
 
