@@ -45,21 +45,20 @@ EDA involved explorying and analyzing BulkAmid data to answer key questions, suc
 
 In the initial data preparation phase, I performed the following tasks:
 
-1. Data loadaing and inspection
+1. Data loading and inspection
 2. Verification of data for any missing values and anomalies.
 3. Loaded data into Excel Power Query
 4. In Excel Power Query, I performed the following tasks:
-- Handled missing values and anomalies.
-- Data transformation
-- Standardized Data Types for various columns fields
-- Carried out Data Cleaning and formating. This is to make sure data is consistent, and clean with respect to the data type, data format and values used.
-- Loaded transformed data into a New Excel Worksheet for analysis
+    - Handled missing values and anomalies.
+    - Data transformation
+    - Standardized Data Types for various columns fields
+    - Carried out Data Cleaning and formating. This is to make sure data is consistent, and clean with respect to the data type, data format and values used.
+    - Loaded transformed data into a New Excel Worksheet for analysis
 
 
 ### Preparing Data for Analysis
 
 1. Created Pivot tables according the data analysis questions asked.
-
 2. Merged all Pivot tables into dashboards and applied Slicers to make data filtering dynamic and interactive.
 
 
@@ -68,26 +67,20 @@ In the initial data preparation phase, I performed the following tasks:
 #### Descriptive Statistics
 
 - I calculated basic Descriptive Statistics (Average (mean) and Standard Deviation) for key variables like age, BMI, and ICIQ scores to understand the general characteristics of the dataset.
-
 - Age Distribution: Included a section summarizing the age range (30-35, 35-40, 40-45, 45-50, 50-55, 55-60, 60-65, 65-70, 70-75, 80-85) of patients and the Average BMI of each Age Group.
 
 #### Correlation Analysis
 
 - Using the Correllation (CORREL) Function in Excel, I explored and analyzed the relationships between different variables, such as BMI, Age, and incontinence severity.
-
--- To acheive this, I ran a Correlation Analysis for:
---- **BMI and ICIQ pre-op**: This will tell if higher BMI is associated with worse incontinence symptoms before surgery.
---- **BMI and ICIQ post-op**: This will tell if BMI is associated with post-op incontinence outcomes.
---- **Age and ICIQ pre-op**: This will tell if older age is correlated with more severe pre-operative incontinence symptoms.
---- **Age and BMI**: This will help determine if older patients tend to have higher BMI values.
+  - To acheive this, I ran a Correlation Analysis for:
+    - **BMI and ICIQ pre-op**: This will tell if higher BMI is associated with worse incontinence symptoms before surgery.
+    - **BMI and ICIQ post-op**: This will tell if BMI is associated with post-op incontinence outcomes.
+    - **Age and ICIQ pre-op**: This will tell if older age is correlated with more severe pre-operative incontinence symptoms.
+    - **Age and BMI**: This will help determine if older patients tend to have higher BMI values.
 
 - Here are the standard **BMI (Body Mass Index)** categories and their corresponding ranges, as defined by the **World Health Organization (WHO)** used in this analysis:
 
-Table goes here.
-| Correllation Value | Relationship Status |
-|--------------------|---------------------|
-|
-|
+![BMI Table](https://github.com/user-attachments/assets/f20841f9-9836-40b0-abf2-b13365371ac0)
 
 These BMI categories help determine whether a person has a healthy weight in relation to their height, and they are often used in healthcare to assess risks related to weight, such as cardiovascular diseases, diabetes, and more.
 
@@ -95,10 +88,8 @@ These BMI categories help determine whether a person has a healthy weight in rel
 
 - I used the following table values to determine the Correllation or relationship between these factors:
 
-| Correllation Value | Relationship Status |
-|--------------------|---------------------|
-|
-|
+![Correlation Table](https://github.com/user-attachments/assets/11510b85-82f8-4013-813b-9e8635c4021a)
+
 
 #### Comparative Analysis
 
@@ -116,7 +107,7 @@ These BMI categories help determine whether a person has a healthy weight in rel
 7. There are more suggeries the 3rd Quarter (July, August, September) of each year.
 8. The lowest number of suggeries fall within the 1st & 2nd Quarter of the Year (January - June), with the 1st Quarter recording the lowest.
 
-Add DASHBORD IMAGE HERE
+![Paramount Hospital - Dashboard-1](https://github.com/user-attachments/assets/0931e6aa-172c-45a5-8cc4-2ed023809470)
 
 
 ### Recommendations
